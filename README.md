@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitonelsonn&label=Profile%20views&color=0e75b6&style=flat" alt="ajitonelsonn" /> </p>
 
-- 🔭 I’m currently work in [Viettel Timor (TELEMOR)](www.telemor.tl)
+- 🔭 I’m currently work in [Viettel Timor (TELEMOR)](https://www.telemor.tl)
 
 - 🌱 I’m currently learning **Hadoop, Spark and Machine Learning**
 
