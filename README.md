@@ -15,7 +15,7 @@
 <a href="https://kaggle.com/ajito89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ajito89" height="30" width="40" /></a>
 <a href="https://fb.com/kharu.kharu89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kharu.kharu89" height="30" width="40" /></a>
 <a href="https://instagram.com/kharu8997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kharu8997" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@anotilkharu59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anotilkharu59" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@anotilkharu59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anotilkharu59" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
