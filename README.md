@@ -25,7 +25,6 @@
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
 <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
 <a href="https://nifi.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-ar21.svg" alt="nifi" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
@@ -37,6 +36,9 @@
 <a href="https://www.hitachivantara.com/" target="_blank" rel="noreferrer"> <img src="https://dataearth.cz/lib/exe/fetch.php/pentaho-logo.svg" alt="pentaho" width="40" height="40"/> </a> 
 <a href="https://colab.google/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="goco" width="40" height="40"/> </a>
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/330261/databricks.svg" alt="dabr" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.apple.com/" target="_blank" rel="noreferrer"> <img src="https://svgur.com/i/TJ_.svg" alt="macos" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/52775/windows.svg" alt="windows" width="40" height="40"/> </a>   
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajitonelsonn&show_icons=true&locale=en&layout=compact" alt="ajitonelsonn" /></p>
