@@ -28,23 +28,25 @@
   <a href="https://www.youtube.com/@anotilkharu59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@anotilkharu59" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-</p>
+</p -->
 
-<div align="center">
-  <img src="/api/placeholder/800/200" alt="Big Data and AI Banner">
-</div>
+<!-- div align="center">
+  <img src="https://cdn.buttercms.com/IEH4zsfcQ6qoqUAr8Qh3" alt="Big Data and AI Banner" width="800">
+</div -->
 
 <h3 align="left">📊 This week I spent my time on:</h3>
-<img src="/api/placeholder/500/200" alt="Placeholder for weekly coding stats">
+<img src="https://wakatime.com/share/@ajitonelson/d3c23c9c-b6df-4eed-b581-12b59f0b7764.svg" alt="Ajito's weekly coding stats">
+
+<!-- figure><embed src="https://wakatime.com/share/@ajitonelson/d3c23c9c-b6df-4eed-b581-12b59f0b7764.svg"></embed></figure -->
 
 <h3 align="left">🏆 GitHub Trophies</h3>
-<img src="/api/placeholder/700/200" alt="Placeholder for GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=ajitonelsonn&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 
 <h3 align="left">📝 Latest Blog Posts</h3>
 <!-- BLOG-POST-LIST:START -->
