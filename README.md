@@ -48,8 +48,8 @@
 <h3 align="left">🏆 GitHub Trophies</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=ajitonelsonn&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
 
-<h3 align="left">📝 Latest Blog Posts</h3>
-<!-- BLOG-POST-LIST:START -->
+<!-- <h3 align="left">📝 Latest Blog Posts</h3>
+ BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
