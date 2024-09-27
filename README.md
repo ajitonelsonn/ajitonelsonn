@@ -35,7 +35,7 @@
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
 </p -->
-
+<!-- div align="center">
 <!-- div align="center">
   <img src="https://cdn.buttercms.com/IEH4zsfcQ6qoqUAr8Qh3" alt="Big Data and AI Banner" width="800">
 </div -->
