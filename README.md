@@ -38,11 +38,11 @@
 <!-- div align="center">
 <!-- div align="center">
   <img src="https://cdn.buttercms.com/IEH4zsfcQ6qoqUAr8Qh3" alt="Big Data and AI Banner" width="800">
-</div -->
+</div
 
 <h3 align="left">📊 This week I spent my time on:</h3>
 <img src="https://wakatime.com/share/@ajitonelson/d3c23c9c-b6df-4eed-b581-12b59f0b7764.svg" alt="Ajito's weekly coding stats">
-
+ -->
 <!-- figure><embed src="https://wakatime.com/share/@ajitonelson/d3c23c9c-b6df-4eed-b581-12b59f0b7764.svg"></embed></figure -->
 
 <h3 align="left">🏆 GitHub Trophies</h3>
