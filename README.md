@@ -50,8 +50,8 @@
 
 <!-- <h3 align="left">📝 Latest Blog Posts</h3>
  BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END 
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</div>
+</div>-->
