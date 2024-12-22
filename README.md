@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Ajito Nelson 👋</h1>
+<h1 align="center">Hi there! I'm Ajito Nelson 👨‍🎤</h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6AD600&background=1E1E1E00&center=true&vCenter=true&random=false&width=435&lines=Big+Data+Engineer;AI+%26+LLM+Enthusiast;" alt="Typing SVG" />
 </div>
