@@ -20,7 +20,7 @@ class DataEngineer:
     def __init__(self):
         self.name = "Ajito Nelson"
         self.role = "Data Engineer"
-        self.company = "Viettel Timor (TELEMOR)"
+        self.company = "Viettel Timor(TELEMOR)"
         self.location = "Timor-Leste"
         self.focus_areas = {
             "Data Engineering": ["ETL/ELT", "Data Pipelines", "Data Warehousing"],
