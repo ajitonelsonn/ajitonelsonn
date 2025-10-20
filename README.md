@@ -55,8 +55,6 @@ me = DataEngineer()
   <a href="https://kaggle.com/ajito89" target="_blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/></a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/kharu89_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@anotilkharu59" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" alt="YouTube"/></a>
 </p>
 
 ---
