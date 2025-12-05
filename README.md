@@ -16,7 +16,7 @@
 
 <div align="center">
 
-### Data Engineer @ Viettel Timor (TELEMOR) | Timor-Leste
+### Data Engineer @ Viettel Timor (TELEMOR) | Timor-Leste 
 
 _Transforming raw data into actionable insights through scalable pipelines and intelligent systems_
 
