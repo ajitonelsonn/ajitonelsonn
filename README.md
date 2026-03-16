@@ -77,8 +77,6 @@ me = DataEngineer()
 
 <p align="center">
   <a href="https://linkedin.com/in/ajitonelson" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;
-  <a href="https://kaggle.com/ajito89" target="_blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="40" height="40"/></a>
 </p>
 
 ---
